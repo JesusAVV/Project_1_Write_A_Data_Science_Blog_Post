@@ -21,4 +21,8 @@ The development of the solution helps to have a better understanding of what a D
 - It was evidenced that the banks are complying with the required bank reserve rate and allowing the BCRP to maintain correct monetary control.
 - As an expectation of the trend of the effective banking reserve rate, it is expected that it will remain at low levels or, failing that, it will not have significant growth.
 
-
+## Acknowledgments
+Use this space to list resources you find helpful and would like to give credit to.
+- [Statistics of the Central Reserve Bank of Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/)
+- [How to Write a Blog Post: A Step-by-Step Guide](https://blog.hubspot.com/marketing/how-to-start-a-blog)
+- [How to Write a Blog Post in 2023: The Ultimate Guide](https://smartblogger.com/how-to-write-a-blog-post/)

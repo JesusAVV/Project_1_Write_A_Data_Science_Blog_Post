@@ -1,6 +1,12 @@
 # Project 1: Write A Data Science Blog Post
 First project part of Data Scientist Nanodegree Program - Udacity
 
+## About the Project
+- Title: Reserve rate of banking companies in national currency in Peru
+- Dataset: Data extracted from the statistics portal of the Central Reserve Bank of Peru. Periods from 2010 onwards.
+- Site: Medium
+- Link: [Reserve rate of banking companies in national currency in Peru](https://medium.com/@jvalenzuelav/reserve-rate-of-banking-companies-in-national-currency-in-peru-12efe1a82a9f)
+
 ## Libraries
 The libraries that were used were:
 - pandas
